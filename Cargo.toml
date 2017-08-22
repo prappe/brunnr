@@ -1,0 +1,8 @@
+[package]
+
+name = "brunnr"
+version = "0.1.9"
+authors = ["Moshe Katzin-Nystrom <pw.td.gk@gmail.com>"]
+
+[dependencies]
+regex = "0.1.10"
